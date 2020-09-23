@@ -1,0 +1,43 @@
+[Grammer]
+
+Type=Cfg
+
+[<Start>]
+<Start>=Open
+<Start>=Close
+<Start>=New
+<Start>=Exit
+<Start>=Maximize
+<Start>=Minimize
+<Start>=Restore
+<Start>=Speak
+<Start>=Talk
+<Start>=Close Window
+<Start>=Start Menu
+<Start>=Next
+<Start>=Previous
+<Start>=File
+<Start>=Menu
+<Start>=Edit
+<Start>=Microsoft Word
+<Start>=Microsoft Word
+<Start>=Start Notepad
+<Start>=Options
+<Start>=Colors
+<Start>=Shut down windows
+<Start>=Tile Horizontally
+<Start>=Tile Vertically
+<Start>=Arrange Icons
+<Start>=Contacts
+<Start>=Cascade
+<Start>=Web
+<Start>=Web Browser
+<Start>=Internet
+<Start>=Internet Explorer
+<Start>=Netscape
+<Start>=Login
+<Start>=Tabkey
+<Start>=Down
+<Start>=Up
+<Start>=Right
+<Start>=Left
